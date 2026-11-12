@@ -14,6 +14,10 @@ everything runs offline on the device.
 |---|---|
 | ![Login screen](docs/screenshots/login.png) | ![Product list](docs/screenshots/products.png) |
 
+| Reports — low stock, inventory summary and sales |
+|---|
+| ![Reports screen](docs/screenshots/reports.png) |
+
 ---
 
 ## Demo accounts
